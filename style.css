@@ -5,7 +5,7 @@ body {
 
 h1 {
     border-bottom: 3px solid #00f;
-    font-family: sans-serif;
+    font-family: 'Palanquin Dark', sans-serif;
     font-size: 30px;
     margin: 0 0 20px 0;
     padding-bottom: 5px;
@@ -14,7 +14,7 @@ h1 {
 }
 
 h2 {
-    font-family: sans-serif;
+    font-family: 'Palanquin Dark', sans-serif;
     text-align: center;
 }
 
@@ -23,7 +23,7 @@ p {
 }
 
 p.instructions {
-    font-weight: bold;
+    font-family: 'Palanquin Dark', sans-serif;
 }
 
 div {
