@@ -1,20 +1,21 @@
 body {
-    background-color: #CCCCCC;
+    background-color: #000;
     padding: 2%;
 }
 
 h1 {
-    border-bottom: 3px solid #888888;
+    border-bottom: 3px solid #00f;
     font-family: sans-serif;
     font-size: 30px;
     margin: 0 0 20px 0;
     padding-bottom: 5px;
     text-align: center;
+    color: #fff;
 }
 
 h2 {
     font-family: sans-serif;
-    text-align: center;    
+    text-align: center;
 }
 
 p {
@@ -26,8 +27,8 @@ p.instructions {
 }
 
 div {
-    background-color: #FFFFFF;
-    border: 3px solid #888888;
+    background-color: #fff;
+    border: 3px solid #00f;
     box-sizing: border-box;
     -moz-box-sizing: border-box;
     float: left;
